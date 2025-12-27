@@ -1,7 +1,7 @@
 # ꍏ↳♗€♫
 
-<a href="https://github.com/neila">
-<img height="160px" src="https://github-stat-cards.vercel.app/api?username=neila&hide_title=true&hide_border=true&count_private=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=jolly" /><img height="160px" src="https://github-stat-cards.vercel.app/api/top-langs?username=neila&hide_title=true&hide_border=true&layout=compact&langs_count=10&hide=makefile,html,css,jupyter%20notebook&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=radical" />
+<a href="https://github.com/irh-s">
+<img height="160px" src="https://github-stat-cards.vercel.app/api?username=irh-s&hide_title=true&hide_border=true&count_private=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=jolly" /><img height="160px" src="https://github-stat-cards.vercel.app/api/top-langs?username=irh-s&hide_title=true&hide_border=true&layout=compact&langs_count=10&hide=makefile,html,css,jupyter%20notebook&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=radical" />
 </a>
 
 ## ↳ꍏ♫❡ꍏ☋❡€∫
@@ -27,5 +27,5 @@
 
 ## ˢ͠ⁿ͠ᵉ͠ᵏ͠
 
-![snek go brr](https://raw.githubusercontent.com/neila/neila/snek/snek-light.svg#gh-light-mode-only)
-![snek go brr](https://raw.githubusercontent.com/neila/neila/snek/snek-dark.svg#gh-dark-mode-only)
+![snek go brr](https://raw.githubusercontent.com/irh-s/irh-s/snek/snek-light.svg#gh-light-mode-only)
+![snek go brr](https://raw.githubusercontent.com/irh-s/irh-s/snek/snek-dark.svg#gh-dark-mode-only)
