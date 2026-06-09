@@ -1,31 +1,35 @@
-# ꍏ↳♗€♫
+## Irohas
 
-<a href="https://github.com/neila">
-<img height="160px" src="https://github-stat-cards.vercel.app/api?username=neila&hide_title=true&hide_border=true&count_private=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=jolly" /><img height="160px" src="https://github-stat-cards.vercel.app/api/top-langs?username=neila&hide_title=true&hide_border=true&layout=compact&langs_count=10&hide=makefile,html,css,jupyter%20notebook&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=radical" />
-</a>
+Creative technologist building adaptive systems, products, and experiments across markets and cultures. Years of open source work across security, data analytics, and modular infrastructure. Always drawn to the edge of complexity and imagination. Turning strange ideas into real things. Open to conversations.
 
-## ↳ꍏ♫❡ꍏ☋❡€∫
+[![Website](https://img.shields.io/badge/irohas.eth-FF7139?logo=firefoxbrowser&logoColor=fff)](https://irohas.eth.link)
+[![Matrix](https://img.shields.io/badge/@irohas:tchncs.de-000?logo=matrix&logoColor=fff)](https://matrix.to/#/@irohas:tchncs.de)
+[![XMPP](https://img.shields.io/badge/irohas@xmpp.chat-002B5C?logo=xmpp&logoColor=fff)](xmpp:irohas@xmpp.chat)
+<!-- [![Signal](https://img.shields.io/badge/@iroh.45-3B45FD?logo=signal&logoColor=fff)](#) -->
 
-<p float="left">
-<img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /><img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" /><img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /><img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /><img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-</p>
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](https://archlinux.org)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff)](https://ubuntu.com)
+<!-- [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](https://gentoo.org) -->
+<!-- [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](https://nixos.org) -->
 
-<!-- [![Perl](https://skillicons.dev/icons?i=perl)](https://www.perl.org/) -->
+[![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](https://zsh.sourceforge.io)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)](https://go.dev)
+[![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff)](https://julialang.org)
+[![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?logo=wolframmathematica&logoColor=fff)](https://www.wolfram.com/mathematica)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff)](https://www.ruby-lang.org)
+[![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff)](https://rust-lang.org)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](https://www.soliditylang.org)
+[![Typescript](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org)
 <!-- [![Haskell](https://skillicons.dev/icons?i=haskell)](https://www.haskell.org/) -->
-<!-- [![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/) -->
-<!-- [![Julia](https://skillicons.dev/icons?i=julia)](https://julialang.org/) -->
-<!-- [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/) -->
-<!-- [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) -->
+<!-- [![Perl](https://skillicons.dev/icons?i=perl)](https://www.perl.org/) -->
+<!-- [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](https://ziglang.org) -->
 
-## ∫էꍏ☾Ҝ
-
-<p float="left">
-<img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /><img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /><img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /><img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" /><img height="48px" src="https://skillicons.dev/icons?i=ipfs" />
-</p>
-
-<!-- [![Ansible](https://skillicons.dev/icons?i=ansible)](https://www.ansible.com/) -->
-
-## ˢ͠ⁿ͠ᵉ͠ᵏ͠
+<!-- [![Stats](./profile/stats.svg)](https://github.com/neila) -->
+<!-- see https://github.com/stats-organization/github-readme-stats-action -->
+<a href="https://github.com/neila">
+<img height="160px" src="https://github-stat-cards.vercel.app/api?username=neila&hide_title=true&hide_border=true&count_private=true&show_icons=true&text_color=fff&icon_color=000&bg_color=000" /><img height="160px" src="https://github-stat-cards.vercel.app/api/top-langs?username=neila&hide_title=true&hide_border=true&layout=compact&langs_count=10&hide=makefile,html,css,jupyter%20notebook&text_color=fff&icon_color=fff&bg_color=000" />
+</a>
 
 ![snek go brr](https://raw.githubusercontent.com/neila/neila/snek/snek-light.svg#gh-light-mode-only)
 ![snek go brr](https://raw.githubusercontent.com/neila/neila/snek/snek-dark.svg#gh-dark-mode-only)
