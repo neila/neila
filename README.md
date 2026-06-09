@@ -1,10 +1,10 @@
-## Irohas
+## Neila
 
 Creative technologist building adaptive systems, products, and experiments across markets and cultures. Years of open source work across security, data analytics, and modular infrastructure. Always drawn to the edge of complexity and imagination. Turning strange ideas into real things. Open to conversations.
 
-[![Website](https://img.shields.io/badge/irohas.eth-FF7139?logo=firefoxbrowser&logoColor=fff)](https://irohas.eth.link)
-[![Matrix](https://img.shields.io/badge/@irohas:tchncs.de-000?logo=matrix&logoColor=fff)](https://matrix.to/#/@irohas:tchncs.de)
-[![XMPP](https://img.shields.io/badge/irohas@xmpp.chat-002B5C?logo=xmpp&logoColor=fff)](xmpp:irohas@xmpp.chat)
+[![Website](https://img.shields.io/badge/neila.github.io-FF7139?logo=firefoxbrowser&logoColor=fff)](https://neila.github.io)
+[![Matrix](https://img.shields.io/badge/@n:tchncs.de-000?logo=matrix&logoColor=fff)](https://matrix.to/#/@n:tchncs.de)
+[![XMPP](https://img.shields.io/badge/n@xmpp.co-002B5C?logo=xmpp&logoColor=fff)](xmpp:n@xmpp.co)
 <!-- [![Signal](https://img.shields.io/badge/@iroh.45-3B45FD?logo=signal&logoColor=fff)](#) -->
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](https://archlinux.org)
