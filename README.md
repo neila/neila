@@ -31,5 +31,5 @@ Creative technologist building adaptive systems, products, and experiments acros
 <img height="160px" src="https://github-stat-cards.vercel.app/api?username=i68s&hide_title=true&hide_border=true&count_private=true&show_icons=true&text_color=fff&icon_color=000&bg_color=000" /><img height="160px" src="https://github-stat-cards.vercel.app/api/top-langs?username=i68s&hide_title=true&hide_border=true&layout=compact&langs_count=10&hide=makefile,html,css,jupyter%20notebook&text_color=fff&icon_color=fff&bg_color=000" />
 </a>
 
-![snek go brr](https://raw.githubusercontent.com/neila/i68s/snek/snek-light.svg#gh-light-mode-only)
-![snek go brr](https://raw.githubusercontent.com/neila/i68s/snek/snek-dark.svg#gh-dark-mode-only)
+![snek go brr](https://raw.githubusercontent.com/i68s/i68s/snek/snek-light.svg#gh-light-mode-only)
+![snek go brr](https://raw.githubusercontent.com/i68s/i68s/snek/snek-dark.svg#gh-dark-mode-only)
