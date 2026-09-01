@@ -1,10 +1,10 @@
-## Neila
+## i68s
 
 Creative technologist building adaptive systems, products, and experiments across markets and cultures. Years of open source work across security, data analytics, and modular infrastructure. Always drawn to the edge of complexity and imagination. Turning strange ideas into real things. Open to conversations.
 
-[![Website](https://img.shields.io/badge/neila.github.io-FF7139?logo=firefoxbrowser&logoColor=fff)](https://neila.github.io)
-[![Matrix](https://img.shields.io/badge/@n:tchncs.de-000?logo=matrix&logoColor=fff)](https://matrix.to/#/@n:tchncs.de)
-[![XMPP](https://img.shields.io/badge/n@xmpp.co-002B5C?logo=xmpp&logoColor=fff)](xmpp:n@xmpp.co)
+[![Website](https://img.shields.io/badge/i68s.github.io-FF7139?logo=firefoxbrowser&logoColor=fff)](https://i68s.github.io)
+[![Matrix](https://img.shields.io/badge/@irohas:tchncs.de-000?logo=matrix&logoColor=fff)](https://matrix.to/#/@irohas:tchncs.de)
+[![XMPP](https://img.shields.io/badge/irohas@xmpp.chat-002B5C?logo=xmpp&logoColor=fff)](xmpp:irohas@xmpp.chat)
 <!-- [![Signal](https://img.shields.io/badge/@iroh.45-3B45FD?logo=signal&logoColor=fff)](#) -->
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](https://archlinux.org)
@@ -27,8 +27,8 @@ Creative technologist building adaptive systems, products, and experiments acros
 
 <!-- [![Stats](./profile/stats.svg)](https://github.com/neila) -->
 <!-- see https://github.com/stats-organization/github-readme-stats-action -->
-<a href="https://github.com/neila">
-<img height="160px" src="https://github-stat-cards.vercel.app/api?username=neila&hide_title=true&hide_border=true&count_private=true&show_icons=true&text_color=fff&icon_color=000&bg_color=000" /><img height="160px" src="https://github-stat-cards.vercel.app/api/top-langs?username=neila&hide_title=true&hide_border=true&layout=compact&langs_count=10&hide=makefile,html,css,jupyter%20notebook&text_color=fff&icon_color=fff&bg_color=000" />
+<a href="https://github.com/i68s">
+<img height="160px" src="https://github-stat-cards.vercel.app/api?username=i68s&hide_title=true&hide_border=true&count_private=true&show_icons=true&text_color=fff&icon_color=000&bg_color=000" /><img height="160px" src="https://github-stat-cards.vercel.app/api/top-langs?username=i68s&hide_title=true&hide_border=true&layout=compact&langs_count=10&hide=makefile,html,css,jupyter%20notebook&text_color=fff&icon_color=fff&bg_color=000" />
 </a>
 
 ![snek go brr](https://raw.githubusercontent.com/neila/neila/snek/snek-light.svg#gh-light-mode-only)
