@@ -28,7 +28,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&hide_border=true&text_color=fff&icon_color=edae49&bg_color=000&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&rank_icon=github&show=prs_reviewed,prs_merged_percentage
-          path: profile/stats2.svg
+          path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top langs card
