@@ -1,8 +1,16 @@
 name: Update stat cards
 
 on:
+  # run on every push to main branch
+  push:
+    branches:
+      - main
+
+  # run automatically once every day
   schedule:
     - cron: "0 0 * * *"
+
+  # allows to run job manually
   workflow_dispatch:
 
 jobs:
