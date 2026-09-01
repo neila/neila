@@ -42,7 +42,7 @@ jobs:
       - name: Generate top langs card2
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: top-langs2
+          card: top-langs
           options: username=${{ github.repository_owner }}&hide_title=true&hide_border=true&layout=compact&langs_count=10&hide=makefile,html,css,jupyter%20notebook&theme=calm
           path: profile/top-langs2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
