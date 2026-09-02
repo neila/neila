@@ -15,9 +15,9 @@ Creative technologist building adaptive systems, products, and experiments acros
 [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](https://zsh.sourceforge.io)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)](https://go.dev)
-[![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff)](https://julialang.org)
+<!-- [![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff)](https://julialang.org)  -->
 [![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?logo=wolframmathematica&logoColor=fff)](https://www.wolfram.com/mathematica)
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff)](https://www.ruby-lang.org)
+<!-- [![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff)](https://www.ruby-lang.org)  -->
 [![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff)](https://rust-lang.org)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](https://www.soliditylang.org)
 [![Typescript](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org)
@@ -25,7 +25,6 @@ Creative technologist building adaptive systems, products, and experiments acros
 <!-- [![Perl](https://skillicons.dev/icons?i=perl)](https://www.perl.org/) -->
 <!-- [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](https://ziglang.org) -->
 
-<!-- [![Stats](./profile/stats.svg)](https://github.com/neila) -->
 <!-- see https://github.com/stats-organization/github-readme-stats-action -->
 <a href="https://github.com/i68s">
 <img height="160px" src="https://raw.githubusercontent.com/i68s/i68s/stats/stats.svg" /><img height="160px" src="https://raw.githubusercontent.com/i68s/i68s/stats/top-langs.svg" />
